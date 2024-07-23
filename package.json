@@ -1,0 +1,16 @@
+{
+  "name": "flask-server",
+  "version": "1.0.0",
+  "description": "A Flask server for typing text in an editor",
+  "main": "server.py",
+  "scripts": {
+    "server": "python server.py"
+  },
+  "author": "Adarsh Gupta",
+  "dependencies": {
+    "flask": "^0.2.10"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
